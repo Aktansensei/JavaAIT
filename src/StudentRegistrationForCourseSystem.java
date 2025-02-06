@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 
-public class Main {
+public class StudentRegistrationForCourseSystem {
     private static Student[] students = new Student[100];
     private static Course[] courses = new Course[100];
     private static int studentCount = 0;
